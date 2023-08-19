@@ -21,5 +21,13 @@ public class HalfPyramid {
         999
         9999  */
 
+/*
+Output:
+*
+**
+***
+****
+*****
+*/
 
 
